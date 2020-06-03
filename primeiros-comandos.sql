@@ -1,0 +1,6 @@
+USE world;
+
+SELECT * FROM city;
+
+SELECT * FROM COUNTRY;
+
